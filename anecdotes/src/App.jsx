@@ -41,7 +41,7 @@ function App() {
 
     setMax(value);
   };
-
+  
   return (
     <div>
       <h1>Anecdote of de Day</h1>
